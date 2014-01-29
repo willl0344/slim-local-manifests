@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="SlimRoms/device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revision="kk4.4" />
+  <project name="SlimRoms/device_samsung_msm8960-common" path="device/samsung/msm8960-common" remote="github" revision="kk4.4" />
+  <project name="SlimRoms/hardware_samsung" path="hardware/samsung" remote="github" revision="kk4.4" />
+  <project name="CyanogenMod/android_device_samsung_hlte-common" path="device/samsung/hlte-common" remote="github" revision="cm-11.0" />
+  <project name="CyanogenMod/android_kernel_samsung_hlte" path="kernel/samsung/hlte" remote="github" revision="cm-11.0" />
+  <project name="CyanogenMod/android_device_samsung_hltetmo" path="device/samsung/hltetmo" remote="github" revision="cm-11.0" />
+  <project name="TheMuppets/proprietary_vendor_samsung/" path="vendor/samsung" remote="github" revision="cm-11.0" />
+  <project name="SlimRoms/hardware_qcom_display-caf" path="hardware/qcom/display-caf" remote="github" revision="kk4.4" />
+  <project name="SlimRoms/hardware_qcom_audio-caf" path="hardware/qcom/audio-caf" remote="github" revision="kk4.4" />
+  <project name="SlimRoms/hardware_qcom_media-caf" path="hardware/qcom/media-caf" remote="github" revision="kk4.4" />
+</manifest>
