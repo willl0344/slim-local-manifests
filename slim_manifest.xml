@@ -14,6 +14,8 @@
   <project path="packages/apps/Camera2" name="CyanogenMod/android_packages_apps_Camera2" remote="github" revision="cm-11.0" />
   <remove-project name="SlimRoms/packages_apps_Calculator" />
   <project path="packages/apps/Calculator" name="CyanogenMod/android_packages_apps_Calculator" remote="github" revision="cm-11.0" />
+  <remove-project name="SlimRoms/packages_apps_Browser" />
+  <project path="packages/apps/Browser" name="CyanogenMod/android_packages_apps_Browser" remote="github" revision="cm-11.0" />
   <remove-project name="SlimRoms/frameworks_base" />
   <project path="frameworks/base" name="willl0344/frameworks_base" remote="github" revision="kk44cafw03" />
   <remove-project name="SlimRoms/packages_apps_Settings" />
