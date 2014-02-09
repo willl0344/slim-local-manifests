@@ -20,4 +20,5 @@
   <project path="frameworks/base" name="willl0344/frameworks_base" remote="github" revision="kk44cafw03" />
   <remove-project name="SlimRoms/packages_apps_Settings" />
   <project path="packages/apps/Settings" name="willl0344/packages_apps_Settings" remote="github" revision="kk44w03" />
+  <project path="packages/apps/OmniSwitch" name="omnirom/android_packages_apps_OmniSwitch" remote="github" revision="android-4.4" />
 </manifest>
