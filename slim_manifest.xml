@@ -21,4 +21,5 @@
   <remove-project name="SlimRoms/packages_apps_Settings" />
   <project path="packages/apps/Settings" name="willl0344/packages_apps_Settings" remote="github" revision="kk44w03" />
   <project path="packages/apps/OmniSwitch" name="omnirom/android_packages_apps_OmniSwitch" remote="github" revision="android-4.4" />
+  <project name="ChameleonOS/android_packages_apps_ScreenRecorder/" path="packages/apps/ScreenRecorder" remote="github" revision="kitkat" />
 </manifest>
