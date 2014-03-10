@@ -22,6 +22,5 @@
   <project name="willl0344/android_packages_apps_ScreenRecorder/" path="packages/apps/ScreenRecorder" remote="github" revision="kitkat" />
   <remove-project name="SlimRoms/hardware_qcom_gps" />
   <project name="CyanogenMod/android_hardware_qcom_gps" path="hardware/qcom/gps" remote="github" revision="cm-11.0" />
-  <project path="hardware/qcom/audio-caf" name="CyanogenMod/android_hardware_qcom_audio-caf" groups="caf" />
-  <project path="hardware/qcom/media-caf" name="CyanogenMod/android_hardware_qcom_media-caf" groups="caf" />
+  <project name="CyanogenMod/android_hardware_qcom_audio-caf" path="hardware/qcom/audio-caf" remote="github" groups="caf" revision="cm-11.0" />
 </manifest>
